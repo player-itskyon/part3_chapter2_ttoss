@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+깃 테스트를 위한 문장 추가
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
